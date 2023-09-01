@@ -37,7 +37,7 @@ CORS_ORIGIN_WHITELIST = (
 )
 
 
-# Application definition
+# Application definition modificacion
 
 INSTALLED_APPS = [
     'django.contrib.admin',
